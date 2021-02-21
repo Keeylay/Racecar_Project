@@ -1,4 +1,5 @@
 print('hello kyle')
 
 print('hello GM')
-poop 
+print('hello GM')
+print('hello GM')
